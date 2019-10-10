@@ -1,0 +1,6 @@
+# required packages
+numpy
+opencv
+tqdm
+argparse
+codecs
